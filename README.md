@@ -1,6 +1,7 @@
 # Projeto IoT - Monitoramento de Umidade (ODS 6)
 
 Este projeto visa monitorar a umidade utilizando o sensor YL-69 e acionar um buzzer quando a umidade estiver abaixo do ideal. Os dados são enviados via protocolo MQTT usando um ESP8266 (NodeMCU).
+Para consultar e entender melhor o projeto, foi disponibilizado no arquivo **artigo-projeto.pdf** todo seu detalhamento alem de um vídeo-apresentação do projeto.
 
 ## 🚀 Componentes Utilizados
 ## Hardware Utilizado
