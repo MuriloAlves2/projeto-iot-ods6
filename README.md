@@ -23,12 +23,12 @@ O projeto usa o protocolo MQTT para enviar os dados do sensor e acionar o atuado
 4. O buzzer será ativado se a umidade estiver acima de 30%.
 
 ## 📈 Resultados
-- Tempo médio de resposta do sensor: X ms
-- Tempo médio de acionamento do buzzer: Y ms
+- Tempo médio de resposta do sensor: 1,3seg
+- Tempo médio de acionamento do buzzer: 1,3s
 - Comunicação MQTT demonstrada no vídeo.
 
 ## 📹 Vídeo de Demonstração
-Assista no YouTube: 
+Assista no YouTube: https://www.youtube.com/watch?v=R9Ads1jgeRU
 
 ## 🧪 Testes
 - Foram realizados 4 testes de tempo de resposta.
