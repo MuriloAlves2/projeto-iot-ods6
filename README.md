@@ -13,7 +13,7 @@ Este projeto visa monitorar a umidade do solo utilizando o sensor YL-69 e aciona
 O projeto usa o protocolo MQTT para enviar os dados do sensor e acionar o atuador. Utiliza o broker mqtt-dashboard.com para teste.
 
 ## 🛠️ Esquema de Montagem
-(https://github.com/MuriloAlves2/projeto-iot-ods6/blob/main/Untitled%20Sketch%202_bb.jpg)
+(modelo_fritzing.jpg)
 
 ## 📂 Como usar
 1. Suba o código no ESP8266 via Arduino IDE.
